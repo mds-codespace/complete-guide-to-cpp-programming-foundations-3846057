@@ -1,5 +1,6 @@
 // Complete Guide to C++ Programming Foundations
 // Exercise 00_03 with mods
+// TO SAVE GO TO SOURCE CODE, SELECT FILE WITH EXTENSION, STAGE, ADD COMMENT OF CHANGE, COMMIT AND PUSH
 // Using the Exercise Files in GitHub Codespaces, by Eduardo Corpeño 
 
 #include <iostream>
